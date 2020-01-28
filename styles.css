@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {}
+
+#wrapper {}
+
+#wrapper .row:nth-child(8) {
+    margin-bottom: 15px;
+}
+
+.row span:nth-child(3) {
+    margin-right: 15px;
+}
+
+span {
+    display: inline-flexbox;
+    width: 5%;
+    text-align: center;
+}
+
+span.element
